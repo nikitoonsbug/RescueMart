@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rescuemart/static/css/main.5b16202c.css",
-    "main.js": "/rescuemart/static/js/main.59b770a8.js",
+    "main.js": "/rescuemart/static/js/main.a5df0e17.js",
     "index.html": "/rescuemart/index.html",
     "main.5b16202c.css.map": "/rescuemart/static/css/main.5b16202c.css.map",
-    "main.59b770a8.js.map": "/rescuemart/static/js/main.59b770a8.js.map"
+    "main.a5df0e17.js.map": "/rescuemart/static/js/main.a5df0e17.js.map"
   },
   "entrypoints": [
     "static/css/main.5b16202c.css",
-    "static/js/main.59b770a8.js"
+    "static/js/main.a5df0e17.js"
   ]
 }
